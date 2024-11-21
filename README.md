@@ -1,30 +1,87 @@
-![GitHub Banner](path-to-your-banner-image)
+<div align="center">
+  <img height="150" src="https://img.freepik.com/free-photo/abstract-green-background_23-2151820842.jpg?t=st=1732189881~exp=1732193481~hmac=4a9730e4e0997144e330fd1c0ecbadf3e6be06a31abf5f9c9c2b589abf0e03fb&w=1800"  />
+</div>
 
-# Hi 👋, I'm Sushant Shrestha  
-A passionate software developer from Nepal 🌄  
+###
 
-### About Me  
-- 🔭 Currently working on **Allianz Project**  
-- 🌱 Learning **C#, .NET Framework**, and diving into **Machine Learning**  
-- 💻 Check out my projects on [GitHub](https://github.com/SushantShrestha12?tab=repositories)  
-- 📫 Reach me at: [sthasushant1@gmail.com](mailto:sthasushant1@gmail.com)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/sushantshrestha1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="sthasushant1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-### Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/your-profile)  
+###
 
-### Languages and Tools  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sushantshrestha12.sushantshrestha12&"  />
+</div>
 
----
+###
 
-⭐️ From [SushantShrestha12](https://github.com/SushantShrestha12)
+<h1 align="center">Hi👋 I'm Sushant Shrestha</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm from Nepal<br><br>- 🔭 I’m working as Software Developer/Freelancer<br>- 📚 I'm currently learning Machine Learning and .NET<br>- ⚡ In my free time I prefer to explore new technologies, work on personal projects, or engage in hobbies that inspire creativity.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sushantshrestha12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushantshrestha12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantshrestha12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/sushantshrestha12/sushantshrestha12/output/snake.svg" alt="Snake animation" />
+
+###
