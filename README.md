@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.freepik.com/free-photo/abstract-green-background_23-2151820842.jpg?t=st=1732189881~exp=1732193481~hmac=4a9730e4e0997144e330fd1c0ecbadf3e6be06a31abf5f9c9c2b589abf0e03fb&w=1800"  />
+<!--   <img height="150" src="https://img.freepik.com/free-photo/abstract-green-background_23-2151820842.jpg?t=st=1732189881~exp=1732193481~hmac=4a9730e4e0997144e330fd1c0ecbadf3e6be06a31abf5f9c9c2b589abf0e03fb&w=1800"  /> -->
 </div>
 
 ###
