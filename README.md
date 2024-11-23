@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="300" src="/developer.png"> 
+<img align="right" height="500" src="/developer.png"> 
 
 
 ###
