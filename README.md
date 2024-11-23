@@ -1,20 +1,3 @@
-<div align="center">
-<!--   <img height="150" src="https://img.freepik.com/free-photo/abstract-green-background_23-2151820842.jpg?t=st=1732189881~exp=1732193481~hmac=4a9730e4e0997144e330fd1c0ecbadf3e6be06a31abf5f9c9c2b589abf0e03fb&w=1800"  /> -->
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sushantshrestha1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sushantshrestha12.sushantshrestha12&"  />
-</div>
 
 ###
 
