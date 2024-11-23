@@ -5,6 +5,10 @@
 
 ###
 
+<img align="right" height="150" src="https://img.freepik.com/premium-vector/man-is-working-computer-with-monitor-showing-man-working-it_1013341-201271.jpg?w=1060"> 
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
