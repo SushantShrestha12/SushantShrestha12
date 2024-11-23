@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="500" src="/developer.png"> 
+<img align="right" height="400" src="/developer.png"> 
 
 
 ###
@@ -15,6 +15,10 @@
 ###
 
 <p align="left">I'm from Nepal<br><br>- 🔭 I’m working as Software Developer/Freelancer<br>- 📚 I'm currently learning Machine Learning and .NET<br>- ⚡ In my free time I prefer to explore new technologies, work on personal projects, or engage in hobbies that inspire creativity.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -43,10 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
