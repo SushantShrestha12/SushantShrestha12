@@ -5,7 +5,8 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/premium-vector/man-is-working-computer-with-monitor-showing-man-working-it_1013341-201271.jpg?w=1060"> 
+<img align="right" height="500" src="/developer.png"> 
+
 
 ###
 
