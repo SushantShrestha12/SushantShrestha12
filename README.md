@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sushantshrestha12/sushantshrestha12/snake.yml" alt="Snake animation" />
+<img src="/snake.yml" alt="Snake animation" />
 
 ###
